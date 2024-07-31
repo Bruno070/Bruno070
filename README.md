@@ -1,7 +1,5 @@
 
 ## Boas vindas ao meu perfil 👋
-![]([link](https://tenor.com/pt-BR/view/surprised-pikachu-pokemon-shock-surprised-pikachu-gif-15357817))
-
 
 <!--
 **Meu nome é Bruno Almeida** 
